@@ -1,0 +1,201 @@
+Hand 1       : 8S	4D	3C	8C	9C	: One pair 
+Hand 2       : AH	JS	9C	3S	8C	: Ace high
+Hand 3       : QS	7C	KD	10H	6C	: K high
+Hand 4       : 5D	KD	4C	2C	3S	: K high
+Hand 5       : 5H	2H	9C	AH	4H	: Ace high
+Hand 6       : JC	8S	4C	AS	JD	: One pair 
+Hand 7       : 5C	JH	7C	9C	8S	: J high
+Hand 8       : 6S	9H	JS	8D	9S	: One pair 
+Hand 9       : 3H	4H	7D	10C	5C	: 10 high
+Hand 10      : 2H	JC	7S	KH	7C	: One pair 
+Hand 11      : 3D	5S	7H	2H	8S	: 8 high
+Hand 12      : 10S	AS	KS	7C	5D	: Ace high
+Hand 13      : KC	JH	3D	9S	JS	: One pair 
+Hand 14      : 2H	KS	7C	5C	9H	: K high
+Hand 15      : 6S	10H	3H	9D	KD	: K high
+Hand 16      : 3S	JS	KS	5H	QH	: K high
+Hand 17      : 6H	3H	KS	QS	2D	: K high
+Hand 18      : 2D	5H	3D	7S	JC	: J high
+Hand 19      : AD	6D	7H	3S	7D	: One pair 
+Hand 20      : 4H	8S	AS	2H	9H	: Ace high
+Hand 21      : KS	KH	10C	5D	2D	: One pair 
+Hand 22      : 6D	KC	9D	4S	3S	: K high
+Hand 23      : QC	QH	2D	8S	3S	: One pair 
+Hand 24      : 5H	8H	JS	8D	7H	: One pair 
+Hand 25      : JD	2S	JC	JS	AH	: 3 of kind 
+Hand 26      : 10D	8S	10C	2H	QD	: One pair 
+Hand 27      : 2H	JS	JC	2S	3D	: Two pair 
+Hand 28      : KD	KS	9C	AC	JS	: One pair 
+Hand 29      : 9D	10D	3C	JC	9S	: One pair 
+Hand 30      : 8H	4C	5S	4H	6C	: One pair 
+Hand 31      : 6C	2S	5D	9C	4S	: 9 high
+Hand 32      : 4H	AH	AC	KS	JH	: One pair 
+Hand 33      : 7D	2C	6D	QH	7S	: One pair 
+Hand 34      : QC	9D	4H	JC	AD	: Ace high
+Hand 35      : AH	5H	KD	AC	KC	: Two pair 
+Hand 36      : AS	9H	5S	10H	8S	: Ace high
+Hand 37      : QD	5D	QH	7D	8H	: One pair 
+Hand 38      : QS	3D	4D	4C	10D	: One pair 
+Hand 39      : JD	8C	KH	10D	7H	: K high
+Hand 40      : JC	6H	7H	8H	QC	: Q high
+Hand 41      : 2D	9D	6C	AH	9H	: One pair 
+Hand 42      : QC	3C	10D	4S	10H	: One pair 
+Hand 43      : 6H	5C	5D	JC	3S	: One pair 
+Hand 44      : 10C	2H	5D	QD	QS	: One pair 
+Hand 45      : 8H	4D	9C	QH	4S	: One pair 
+Hand 46      : AS	KS	QD	8H	QH	: One pair 
+Hand 47      : AD	JC	3H	JS	5C	: One pair 
+Hand 48      : 4C	10S	8H	6H	5H	: 10 high
+Hand 49      : 4C	5H	9C	6S	4S	: One pair 
+Hand 50      : 4S	8S	10S	AS	JC	: Ace high
+Hand 54      : 2C	7H	AS	5H	6S	: Ace high
+Hand 57      : AC	2H	QC	8S	5H	: Ace high
+Hand 61      : AH	9C	8S	QH	JS	: Ace high
+Hand 62      : AD	2S	KS	KD	2D	: Two pair 
+Hand 63      : QS	4S	8D	10C	KD	: K high
+Hand 64      : KS	3D	JD	5C	7S	: K high
+Hand 77      : QS	2S	8S	JS	9S	: Flush  
+Hand 78      : 5C	3D	10H	9C	4D	: 10 high
+Hand 81      : QS	6H	10S	7D	3D	: Q high
+Hand 85      : 2D	8S	QH	10C	7S	: Q high
+Hand 90      : QD	4D	9H	6C	2S	: Q high
+Hand 92      : 6H	8H	2D	QC	10S	: Q high
+Hand 93      : 5D	3S	KS	5H	5S	: 3 of kind 
+Hand 100     : 8H	5C	6D	7C	2C	: 8 high
+Hand 102     : 4C	8C	2H	7H	10D	: 10 high
+Hand 105     : JD	8H	5C	QH	2H	: Q high
+Hand 113     : 2C	8S	4H	6C	JC	: J high
+Hand 128     : 4H	JH	QC	5H	6H	: Q high
+Hand 129     : 9C	5S	6H	6S	6C	: 3 of kind 
+Hand 133     : 10D	10C	5C	8H	10S	: 3 of kind 
+Hand 146     : 5C	2C	QC	9S	3S	: Q high
+Hand 147     : 5H	2C	2S	6C	2H	: 3 of kind 
+Hand 149     : 4S	JC	9S	3C	QD	: Q high
+Hand 157     : 6C	QD	4C	8C	7S	: Q high
+Hand 175     : 5H	8D	6C	9H	7S	: Straight 
+Hand 176     : 6C	9D	10D	JH	5D	: J high
+Hand 185     : 3S	4H	3H	8D	8H	: Two pair 
+Hand 187     : 3H	8S	9C	4S	7D	: 9 high
+Hand 189     : 5C	4D	3D	JC	6D	: J high
+Hand 198     : 10C	10S	10H	3H	AC	: 3 of kind 
+Hand 200     : 5C	2H	JH	6D	7D	: J high
+Hand 208     : 3C	8H	3S	QD	QC	: Two pair 
+Hand 209     : AH	8C	KD	AD	KC	: Two pair 
+Hand 214     : 4H	7S	5S	6C	3C	: Straight 
+Hand 216     : 2D	10S	7D	JH	4D	: J high
+Hand 217     : 6H	2D	10S	8S	5D	: 10 high
+Hand 221     : 5C	6C	2C	2H	5S	: Two pair 
+Hand 226     : 2S	5C	JH	3C	4S	: J high
+Hand 231     : 8H	KD	10C	8C	KS	: Two pair 
+Hand 232     : 8H	3D	7H	3S	8S	: Two pair 
+Hand 241     : KC	KS	3S	3H	10S	: Two pair 
+Hand 246     : 9S	8S	5S	2S	JS	: Flush  
+Hand 247     : AC	QH	QS	7H	QC	: 3 of kind 
+Hand 261     : 4H	5S	6C	8D	3C	: 8 high
+Hand 273     : 3C	10D	6D	4C	2H	: 10 high
+Hand 275     : JS	5H	3C	7H	8C	: J high
+Hand 296     : 9D	JC	10S	2S	3H	: J high
+Hand 304     : 10C	3H	6H	8C	2H	: 10 high
+Hand 306     : 8S	7S	9H	10D	JC	: Straight 
+Hand 324     : QH	QC	QS	7H	KD	: 3 of kind 
+Hand 325     : 3S	2D	7H	9D	5C	: 9 high
+Hand 336     : AH	7H	7C	2D	7D	: 3 of kind 
+Hand 343     : 5S	6H	7S	8S	9S	: Straight 
+Hand 371     : 6S	4H	9S	8C	10H	: 10 high
+Hand 372     : 6C	9H	6H	AS	6S	: 3 of kind 
+Hand 375     : 2D	3S	10C	5C	4C	: 10 high
+Hand 394     : 4H	9D	3H	7S	6S	: 9 high
+Hand 421     : 7S	8D	10H	6S	4C	: 10 high
+Hand 478     : 9H	10H	6H	AH	5H	: Flush  
+Hand 550     : 4H	7C	2C	6C	8S	: 8 high
+Hand 580     : 7D	4D	2C	5H	3D	: 7 high
+Hand 610     : 9S	6S	5H	2D	7D	: 9 high
+Hand 628     : 4C	QC	5C	10C	KC	: Flush  
+Hand 684     : 6C	2H	7C	3H	8H	: 8 high
+Hand 701     : 5C	6S	2H	4D	9H	: 9 high
+Hand 724     : 8C	4S	3D	9H	2C	: 9 high
+Hand 763     : 8H	3H	6C	4H	5C	: 8 high
+Hand 766     : 4H	QH	KH	AH	6H	: Flush  
+Hand 768     : 9S	7S	6C	3H	2H	: 9 high
+Hand 839     : 7D	3S	8S	9S	4S	: 9 high
+Hand 854     : 4S	6S	7C	2D	9C	: 9 high
+Hand 983     : 8H	3H	6C	2H	7D	: 8 high
+Hand 1050    : 3H	8S	7C	6D	2H	: 8 high
+Hand 1209    : 6C	5C	10C	7C	9C	: Flush  
+Hand 1224    : JH	7D	8H	9S	10H	: Straight 
+Hand 1276    : 8D	10H	9S	7D	6S	: Straight 
+Hand 1483    : 8D	5S	2H	4C	3H	: 8 high
+Hand 1626    : 8D	QD	10S	9S	JD	: Straight 
+Hand 1655    : KD	QD	5D	4D	JD	: Flush  
+Hand 1717    : 5H	2C	5S	2S	2D	: Full house
+Hand 1719    : 8C	7C	3C	5H	6C	: 8 high
+Hand 1740    : 6D	7S	2S	4C	5S	: 7 high
+Hand 1805    : 9D	9C	2C	2D	9H	: Full house
+Hand 1959    : 2H	4C	6C	5H	3C	: Straight 
+Hand 2346    : 6D	3D	7D	5D	KD	: Flush  
+Hand 2443    : 9H	QH	4H	KH	10H	: Flush  
+Hand 2454    : 2S	JS	7S	10S	8S	: Flush  
+Hand 2498    : 4H	JS	4D	4C	4S	: 4 of a kind 
+Hand 2709    : 7H	3S	2S	6D	5C	: 7 high
+Hand 2734    : 6D	3D	7S	5D	2C	: 7 high
+Hand 2875    : 9C	8S	10H	6C	7C	: Straight 
+Hand 3126    : QS	JC	QH	QC	JD	: Full house
+Hand 3192    : 9D	7S	8H	10H	JC	: Straight 
+Hand 3303    : 3C	2S	7S	6D	5D	: 7 high
+Hand 3324    : 7H	4D	3S	5D	2S	: 7 high
+Hand 3359    : 7S	5C	6S	2D	4C	: 7 high
+Hand 3968    : 8H	8C	QC	QH	QS	: Full house
+Hand 4080    : 7C	7D	2C	7H	2H	: Full house
+Hand 4508    : 6D	AH	AS	AD	AC	: 4 of a kind 
+Hand 4833    : 2C	10S	10D	10H	2S	: Full house
+Hand 5410    : 7S	2S	6S	3C	4H	: 7 high
+Hand 6526    : JH	8H	8C	JS	JD	: Full house
+Hand 7062    : 4S	7D	5S	2H	3D	: 7 high
+Hand 7374    : 7H	3C	2C	6S	4D	: 7 high
+Hand 8142    : 8C	7S	8D	7C	7H	: Full house
+Hand 8468    : 10D	6S	6H	10H	6D	: Full house
+Hand 8591    : AH	AC	AS	QH	QC	: Full house
+Hand 12578   : 9C	5H	9S	9D	9H	: 4 of a kind 
+Hand 12796   : JD	JS	JH	2S	JC	: 4 of a kind 
+Hand 13571   : 2S	2C	2H	2D	8D	: 4 of a kind 
+Hand 17426   : 3H	3S	4H	3C	3D	: 4 of a kind 
+Hand 19522   : KC	KS	6H	KD	KH	: 4 of a kind 
+Hand 20323   : 7C	7D	7H	7S	3D	: 4 of a kind 
+Hand 20780   : 7D	7S	7C	5C	7H	: 4 of a kind 
+Hand 26382   : KC	KD	9S	KS	KH	: 4 of a kind 
+Hand 39551   : 8C	10C	JC	7C	9C	: Straightflush 
+Hand 59046   : 10C	JC	8C	9C	QC	: Straightflush 
+Hand 72371   : 6C	4C	5C	8C	7C	: Straightflush 
+Hand 132017  : 6D	3D	5D	7D	4D	: Straightflush 
+Hand 262517  : 9S	10S	JS	KS	QS	: Straightflush 
+Hand 294536  : 7C	4C	6C	5C	3C	: Straightflush 
+Hand 434752  : JH	10H	8H	7H	9H	: Straightflush 
+Hand 507627  : 6D	5D	7D	8D	9D	: Straightflush 
+Hand 679470  : 7S	3S	5S	6S	4S	: Straightflush 
+Hand 791230  : 8C	7C	JC	9C	10C	: Straightflush 
+Hand 1396732 : 10H	AH	KH	QH	JH	: Royalflush 
+Hand 1644046 : JC	KC	AC	QC	10C	: Royalflush 
+Hand 4559099 : QH	JH	10H	KH	AH	: Royalflush 
+Hand 5315026 : JD	AD	10D	KD	QD	: Royalflush 
+Hand 6081819 : AC	QC	KC	10C	JC	: Royalflush 
+Hand 6867727 : KS	10S	QS	AS	JS	: Royalflush 
+
+Seven high	: 0.15852%
+Eight high	: 0.55111%
+Nine high	: 1.33027%
+Ten high	: 2.71015%
+Jack high	: 4.90287%
+Queen high	: 8.19748%
+King high	: 12.9112%
+Ace high	: 19.39004%
+
+High Card 	: 50.15164%
+One Pair	: 42.25487%
+Two pair	: 4.75535%
+3 of a kind	: 2.11805%
+Straight	: 0.35469%
+Flush   	: 0.19716%
+Full house	: 0.14245%
+4 of a kind	: 0.02427%
+Straight flush	: 0.00144%
+Royal Flush	: 5.0E-5%
